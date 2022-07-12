@@ -25,7 +25,7 @@ PhD Candidate @ Cornell University in Computer Science | AMD Scientific Machine 
 </h5>
 
 <div align='center'>
-  <img src="https://i.imgur.com/VUBtXys.gif" alt="Welcome!" width="50%"/>
+  <img src="https://i.imgur.com/VUBtXys.gif" alt="Welcome!" width="80%"/>
 </div> 
 
 <div align='center'>
