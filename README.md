@@ -20,7 +20,7 @@
 
 <h5>
 <center style="color: #f77">
-PhD Candidate @ Cornell University in Computer Science | AMD Scientific Machine Learning Research Intern
+PhD Candidate @ Cornell University in Computer Science | Incomine Applied Research Intern @ LinkedIn
 </center>
 </h5>
 
