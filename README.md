@@ -20,7 +20,7 @@
 
 <h5>
 <center style="color: #f77">
-PhD Candidate @ Cornell University in Computer Science | Applied Research Intern @ LinkedIn
+PhD Candidate @ Cornell University in Computer Science
 </center>
 </h5>
 
