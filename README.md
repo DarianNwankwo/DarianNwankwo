@@ -18,11 +18,9 @@
   </a>
 </div> 
 
-<h5>
-<center style="color: #f77">
-PhD Candidate @ Cornell University in Computer Science
-</center>
-</h5>
+<div align="center" style="color: #f77">
+  <h5>PhD Candidate @ Cornell University in Computer Science</h5>
+</div>
 
 <div align='center'>
   <img src="https://i.imgur.com/VUBtXys.gif" alt="Welcome!" width="80%"/>
