@@ -10,8 +10,8 @@
   <a href="https://github.com/DarianNwankwo?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DarianNwankwo"/>
   </a>
-  <a href="https://www.linkedin.com/in/darian-nwankwo-19b6711b4/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/"/>
+  <a href="https://www.linkedin.com/in/machine-learning-darian-nwankwo/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/machine-learning-darian-nwankwo/"/>
   </a>
   <a href="mailto:nwankwodarian@gmail.com?subject=Hello%20Darian,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -19,7 +19,7 @@
 </div> 
 
 <div align="center" style="color: #f77">
-  <h5>PhD Candidate @ Cornell University in Computer Science</h5>
+  <h5>PhD in Computer Science, Cornell University</h5>
 </div>
 
 <div align='center'>
